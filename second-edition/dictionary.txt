@@ -257,13 +257,15 @@ subtree
 subtyping
 Summarizable
 Supertraits
-That'd
 test's
+That'd
+timestamp
 Tiếng
 timeline
 TODO
 toml
 TOML
+ToString
 tradeoff
 tradeoffs
 TrafficLight
